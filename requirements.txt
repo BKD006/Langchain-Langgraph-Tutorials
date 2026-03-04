@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+pydantic
+groq
+rank_bm25
+PyMuPDF
+sentence_transformers
+pypdf
+faiss-cpu
